@@ -1,13 +1,13 @@
 {
-  "main.css": "/homework4-HenricZh/static/css/main.be2e60e2.chunk.css",
-  "main.js": "/homework4-HenricZh/static/js/main.ce2a080b.chunk.js",
-  "main.js.map": "/homework4-HenricZh/static/js/main.ce2a080b.chunk.js.map",
-  "static/js/1.a3c0bc64.chunk.js": "/homework4-HenricZh/static/js/1.a3c0bc64.chunk.js",
-  "static/js/1.a3c0bc64.chunk.js.map": "/homework4-HenricZh/static/js/1.a3c0bc64.chunk.js.map",
-  "runtime~main.js": "/homework4-HenricZh/static/js/runtime~main.0075cb69.js",
-  "runtime~main.js.map": "/homework4-HenricZh/static/js/runtime~main.0075cb69.js.map",
-  "static/css/main.be2e60e2.chunk.css.map": "/homework4-HenricZh/static/css/main.be2e60e2.chunk.css.map",
+  "main.css": "/homework4-HenricZh/static/css/main.99fcd865.chunk.css",
+  "main.js": "/homework4-HenricZh/static/js/main.4767dda1.chunk.js",
+  "main.js.map": "/homework4-HenricZh/static/js/main.4767dda1.chunk.js.map",
+  "runtime~main.js": "/homework4-HenricZh/static/js/runtime~main.af05fcbc.js",
+  "runtime~main.js.map": "/homework4-HenricZh/static/js/runtime~main.af05fcbc.js.map",
+  "static/js/2.18feb4ae.chunk.js": "/homework4-HenricZh/static/js/2.18feb4ae.chunk.js",
+  "static/js/2.18feb4ae.chunk.js.map": "/homework4-HenricZh/static/js/2.18feb4ae.chunk.js.map",
   "index.html": "/homework4-HenricZh/index.html",
-  "precache-manifest.35ad66f925b2b57a87be941ba4d5e166.js": "/homework4-HenricZh/precache-manifest.35ad66f925b2b57a87be941ba4d5e166.js",
-  "service-worker.js": "/homework4-HenricZh/service-worker.js"
+  "precache-manifest.20a24bc93559cb3e23a7f302ac3ae093.js": "/homework4-HenricZh/precache-manifest.20a24bc93559cb3e23a7f302ac3ae093.js",
+  "service-worker.js": "/homework4-HenricZh/service-worker.js",
+  "static/css/main.99fcd865.chunk.css.map": "/homework4-HenricZh/static/css/main.99fcd865.chunk.css.map"
 }
